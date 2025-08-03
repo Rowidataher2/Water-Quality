@@ -59,4 +59,3 @@ Predict the safety of water based on 20 features representing various ingredient
 
 ---
 
-Feel free to ⭐ this repo if you found it helpful or want to contribute!
